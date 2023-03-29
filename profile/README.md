@@ -1,6 +1,6 @@
-# Isaac Physics & Isaac Computer Science
+# Isaac Physics & Ada Computer Science
 
-The [@isaacphysics](https://github.com/isaacphysics) GitHub organisation contains the source code for the Isaac platform that underlies [Isaac Physics](https://isaacphysics.org) and [Isaac Computer Science](https://isaaccomputerscience.org). We occasionally post updates to our technical blog, [labs.isaacphysics.org](https://labs.isaacphysics.org).
+The [@isaacphysics](https://github.com/isaacphysics) GitHub organisation contains the source code for the platform that runs [Isaac Physics](https://isaacphysics.org) and [Ada Computer Science](https://adacomputerscience.org). It was the home of the [Isaac Computer Science](https://github.com/isaaccomputerscience) code until that was handed over in 2023. We occasionally post updates to our technical blog, [labs.isaacphysics.org](https://labs.isaacphysics.org).
 
 Git repositories with names starting `isaac-...` may not be of immediate use to others interested in online education, although they may provide useful reference. The two main exceptions are [`isaac-react-app`](https://github.com/isaacphysics/isaac-react-app), the web-app frontend of the core Isaac platform; and [`isaac-api`](https://github.com/isaacphysics/isaac-api), the server side of the core Isaac platform.
 
